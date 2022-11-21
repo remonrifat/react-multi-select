@@ -1,0 +1,15 @@
+.select {
+  width: 700px;
+  margin: 100px auto;
+
+}
+
+button {
+  border: solid 2px rgb(21, 65, 158);
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgb(153, 132, 132);
+  color: rgb(3, 0, 0);
+  font-weight: bold;
+  cursor: pointer;
+}
